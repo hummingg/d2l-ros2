@@ -9,7 +9,7 @@ ROS2 使用 DDS 进行消息传输。
 export RMW_IMPLEMENTATION=rmw_cyclonedds_cpp
 ```
 
-要检查正在使用的 RMW 实施，请执行以下操作：
+要检查正在使用的 RMW 实现，请执行以下操作：
 
 
 ```

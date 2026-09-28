@@ -116,7 +116,7 @@ add_executable(my_node my_node.cpp)
 rosidl_target_interfaces(my_node ${PROJECT_NAME} "rosidl_typesupport_cpp")
 ```
 
-## 从普鲁金利布中去除助推器
+## 从 Pluginlib 中去除 Boost
 
 默认情况下，Pluginlib 同时支持 Boost：：Shared_PTRS 和 STD：：Shared_PTRS，如果你想避免在闪亮的新 ROS2 库中依赖 Boost，你需要明确告诉 pluginlib 不要包含 Boost 版本：
 
