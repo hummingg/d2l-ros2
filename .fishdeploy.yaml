@@ -1,6 +1,6 @@
 # fishros deploy tool 所有的操作都在工程目录进行
 name: d2l-ros2
-tag: humble
+tag: jazzy
 initialize:
   - echo "start successfully"
 pipline:

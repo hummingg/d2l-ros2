@@ -1,10 +1,10 @@
-# 动手学ROS2-Humble
+# 动手学ROS2-Jazzy
 
 亲爱的鱼粉（请允许小鱼这么称呼），你好！我是《鱼香ROS》作者小鱼，很高兴你能看到这本在线教程，那么从现在开始希望你可以和小鱼一起动手学习ROS2、学习机器人。
 
 小鱼很荣幸的告诉你，现在你所看到的教程已经是《动手学ROS2》的第二版了，第二版相较于第一版主要有以下改进：
 
-- 采用ROS2五年长期支持版Humble版本进行讲解（第一版为Foxy版本，2023年停止维护）
+- 采用ROS2五年长期支持版Jazzy版本进行讲解（第一版为Foxy版本，2023年停止维护）
 - 增加Moveit2机械臂运动规划内容
 - 增加Nav2进阶内容内容
 - 增加DDS和ROS2通信机制进阶内容
@@ -158,7 +158,7 @@ ROS2强大之处在于其生态系统，基于ROS2的软件库和工具集，针
 
 #### 参考资料
 
-- ROS2官方文档：http://docs.ros.org/en/humble/index.html
+- ROS2官方文档：http://docs.ros.org/en/jazzy/index.html
 - ROS2教学视频：https://www.bilibili.com/video/BV19U4y1n7CQ
 - 项目源码地址：https://github.com/fishros/ros2_town
 
