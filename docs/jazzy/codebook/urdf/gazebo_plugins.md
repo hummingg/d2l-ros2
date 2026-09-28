@@ -1,5 +1,7 @@
 # Gazebo常用插件
 
+> ⚠️ **Jazzy/Harmonic 适配说明**：本页列出的 `libgazebo_ros_*.so` 是**经典 Gazebo 11** 的插件示例，在 ROS 2 Jazzy + Gazebo Harmonic 下已不存在。Harmonic 中传感器/控制器通过 **Gazebo 自带 sensor/plugin + `ros_gz_bridge`** 桥接（见第 9 章各小节），请按需改用。
+
 ## 1.雷达
 
 详细介绍及文章： [9.5给机器人添加激光传感器](..\..\chapt9\9.5给机器人添加激光传感器.md) 
